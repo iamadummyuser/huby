@@ -17,7 +17,11 @@ Prereqs
 
 
 Enter the credentials on hubyGithub.py file
+
 1-Enter the target username or organization
+
 2-Enter the admin Personal Access Token in order to privatize the repos (Optional)
+
 3-Enter the Github Personal Access Token in order to increase the API call limit (Optional)
+
 
