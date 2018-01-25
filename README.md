@@ -2,11 +2,17 @@
 This tool is developed for to show the sensitive data exposure on any Github organization or user 
 
 Prereqs
+
 1-Python 2.7.14
+
 2-Modules:
+
 2.1-Pathos
+
 2.2-dill
+
 2.3-multiprocess
+
 
 
 
