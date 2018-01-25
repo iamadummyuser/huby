@@ -5,8 +5,8 @@ from github import Github
 class hubyGithub(object):
     '''This Class aim is to interact with Github(Privatize the repos, list the repos) '''    
     def __init__(self):
-        self.orgNames=['trilogy-group']
-        self.orgSifre=[]
+        self.orgNames=[''] #Enter the organization or username
+        self.orgSifre=[''] #Enter the Administarative Personal Access Key in order to privatize the public repos (OPTIONAL)
         self.dummyapi=''
 
     def getOrganization(self,orgname):
