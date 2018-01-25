@@ -25,3 +25,4 @@ Enter the credentials on hubyGithub.py file
 3-Enter the Github Personal Access Token in order to increase the API call limit (Optional)
 
 
+Modify the files & just run python hubyPerimeter.py
